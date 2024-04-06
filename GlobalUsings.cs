@@ -1,0 +1,14 @@
+global using NUnit.Framework;
+global using OpenQA.Selenium.Chrome;
+global using OpenQA.Selenium;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using JulyBatch2023Project2.Utilities;
+global using OpenQA.Selenium.Firefox;
+global using JulyBatch2023Project2.BaseHooks;
+global using OpenQA.Selenium.Interactions;
+global using FluentAssertions;
+global using OpenQA.Selenium.Support.UI;
